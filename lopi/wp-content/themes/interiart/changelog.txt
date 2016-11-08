@@ -1,0 +1,68 @@
+
+05.03.2016
+- initial Version 1.0
+
+11.03.2016
+- Next Version 1.1
+ + Update One-click demo install.
+
+ 16.03.2016
+ - Next Version 1.2
+  + Update Page Gallery - use plugin Tz Plus Gallery(pro).
+  + Update Plugin Visual Composer 4.11.1
+  + Update version plugin Revolution Slider  5.2.2
+
+ 22.03.2016
+ - Next Version 1.2.1
+  + Fix error : Email and social of headertop not change.
+
+ 07.04.2016
+ - Next Version 1.3
+  + Update Home OnePage.
+  + Update Plugin Tz Interiart v1.1
+  + Update Plugin Revolution Slider 5.2.3.5
+
+  15.04.2016
+  - Next Version 1.4
+   + Update Page Under Construction.
+   + Update Plugin Tz Interiart v1.2
+   + Update Plugin Visual Composer v4.11.2
+   + Fixed bug that Portfolio page is empty when total portfolios available is less than number of portfolios expected to show.
+   + Fixed bug that Menu is over portfolio lightbox.
+   + Updated Single Portfolio: Slideshow, video and video HTML5 portfolios are supported.
+
+  15.04.2016
+  - Next Version 1.5
+   + Update Plugin Visual Composer v4.11.2.1
+   + Update Plugin Revolution Slider 5.2.5
+   + Update lightbox single portfolio of page category portfolio.
+   + Update Social Instagram in header and footer.
+   + Fixed error two menu icon when site responsive.
+
+  26.04.2016
+  - Next Version 1.6
+   + Update Theme vertion Right To Left.
+   + Update Plugin Tz Interiart v1.2.1.
+   + Update option page single portfolio.
+   + Fixed error filter page portfolio.
+29.04.2016
+ - Next Version 1.6.1
+  + Fixed error : option Width Option not working in page portfolio.
+
+  16.05.2016
+   - Next Version 1.7
+    + Update Plugin Tz Interiart v1.3.
+    + Update Plugin Revolution Slider 5.2.5.1
+    + Update Header Option ( General Option or Custom Option ) of element Header When you create Homepage.
+    + Update NEW, FREE, FEATURED ,OUT OF STOCK and SALE stickers on my products.
+    + Update Option Height Product( fix height or Auto height ) for Shop page.
+    + Fixed error : icon quote do not show on Blog Column page.
+    + Update Children Theme
+
+05.07.2016
+   - Next Version 1.8
+    + Update Plugin Tz Interiart v1.4 .
+    + Update Plugin Visual Composer v4.12 .
+    + Update Plugin Woocommerce v2.6.2 .
+    + Update Plugin Tz Plus Gallery v1.5 .
+    + Fixed error: White site When you deactivate plugin Woocommerce .

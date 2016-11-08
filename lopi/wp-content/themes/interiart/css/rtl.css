@@ -1,0 +1,738 @@
+.tz-header .tz-headerTop .tz-headerLeft{
+    float: right !important;
+}
+.tz-header .tz-headerTop .tz-headerRight{
+    float: left !important;
+}
+.tz-header .tz-headerTop .tz-headerRight ul.tzheader_social li {
+    padding: 12px 26px 10px 0px;
+}
+.tz-header .tz-headerBottom a.tz_logo{
+    float: right !important;
+}
+
+.tz-header .tz-headerBottom .tz-header-cart{
+    float: left !important;
+}
+.tz-header .tz-headerBottom .tz-header-search{
+    float: left !important;
+}
+.tz-header .tz-headerBottom nav{
+    float: left !important;
+}
+.tz-header .tz-headerBottom .tz-header-cart span {
+    padding: 46px 22px 41px 0;
+}
+.tz-header .tz-headerBottom .tz-header-search span {
+    padding: 46px 8px 41px 0;
+}
+.tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart{
+    left: 0;
+    right: auto;
+}
+.tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li .tzMiniCart_image{
+    float: right;
+}
+.tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li .tzMiniCart_info {
+    margin-left: 0;
+    margin-right: 100px;
+    padding-right: 0;
+    padding-left: 50px;
+    text-align: right;
+}
+.tz-header .tz-headerBottom .tz-header-cart .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li a.remove{
+    left: 0;
+    right: auto;
+}
+.tz-header .tz-headerBottom .tz-header-search .tz-header-search-form{
+    left: 0;
+    right: auto;
+}
+.tz-header .tz-headerBottom .tz-header-search .tz-header-search-form .searchform input{
+    text-align: right;
+}
+.tz-header .tz-headerBottom .tz-header-search .tz-header-search-form .searchform input.searchsubmit{
+    left: 9px;
+    right: auto;
+}
+.tz-header .tz-headerBottom .tz-header-search .tz-header-search-form .searchform span{
+    left: 11px;
+    right: auto;
+}
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a{
+    text-align: right;
+}
+
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item h4,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item h4,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item h4{
+    text-align: right;
+}
+
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item.widget_nav_menu ul li a,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item.widget_nav_menu ul li a,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item.widget_nav_menu ul li a{
+    text-align: right;
+}
+
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a img ,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a img ,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a img {
+    float: right;
+    height: auto;
+    margin-right: 0;
+    margin-left: 20px;
+}
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li{
+    text-align: right;
+}
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li a span.product-title{
+    text-align: right;
+}
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li .star-rating,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li .star-rating,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-2 #mega-menu-primary-custom-2 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li .star-rating{
+    display: inline-block;
+    margin-bottom: 0;
+}
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li span.amount,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li span.amount,
+.tz-header .tz-headerBottom nav #mega-menu-wrap-primary-custom-1 #mega-menu-primary-custom-1 > li.mega-menu-item > ul.mega-sub-menu > li.mega-menu-item .product_list_widget li span.amount{
+    display: block;
+}
+
+.tzElement_viewService .tzView_Service_Slide .tzView_Service_Slide_Item .tzView_Service_Content{
+    text-align: right;
+}
+.tzElement_viewService .tzView_Service_Slide .tzView_Service_Slide_Item .tzView_Service_Content span{
+    right: 0;
+    left: auto;
+}
+
+.tzElement-newsletter.tzNewsletter-modern{
+    text-align: right;
+}
+.tzElement-newsletter.tzNewsletter-modern .newsletter form table{
+    display: inline;
+}
+.tzElement-newsletter.tzNewsletter-modern .newsletter form table tbody tr td.newsletter-td-submit::after{
+    right: 100px;
+    left: auto;
+}
+.tzElement-newsletter.tzNewsletter-modern .newsletter form table tbody tr td input{
+    text-align: right;
+}
+
+/****************************************** demo *********************************************************/
+.vc_general.vc_cta3.vc_cta3-align-left .vc_cta3_content-container .vc_cta3-content{
+    text-align: right;
+}
+
+.vc_general.vc_cta3 .vc_cta3-actions{
+    text-align: right;
+}
+/**********************************************************************************************************/
+
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info h3.tzViewPost_title{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info p{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_0 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_1 .tzViewPost_item_box .tzViewPost_info h3.tzViewPost_title{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_1 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_1 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta i {
+    padding: 3px 0px 0 10px;
+    float: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_2 .tzViewPost_item_box .tzViewPost_info h3.tzViewPost_title{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_2 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_2 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta i {
+    padding: 3px 0px 0 10px;
+    float: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_3 .tzViewPost_item_box .tzViewPost_info h3.tzViewPost_title{
+    text-align: right;
+}
+.tzElement_viewPost .tzViewPost_slider_advance .tzViewPost_item .tzViewPost_item_3 .tzViewPost_item_box .tzViewPost_info .tzViewPost_meta{
+    text-align: right;
+}
+
+.tzElement_Category_Grid .tzCategory_Grid_Item .tzCategory_Grid_Item_Content .tzCategory_Grid_Icon{
+    float: right;
+    text-align: right;
+}
+.tzElement_Category_Grid .tzCategory_Grid_Item .tzCategory_Grid_Item_Content .tzCategory_Grid_Info{
+    padding-left: 0;
+    padding-right: 65px;
+    text-align: right;
+}
+.tzElement_Category_Grid .tzCategory_Grid_Item .tzCategory_Grid_Item_Content .tzCategory_Grid_Info .tzCategory_Grid_Title::after{
+    left: auto;
+    right: 0;
+}
+.tzPortfolio_Grid .tzPortfolioGrid_Content .tzPortfolioGrid-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_info{
+    right: auto;
+    left: 30px;
+    text-align: left;
+}
+.tzPortfolio_Grid .tzPortfolioGrid_Content .tzPortfolioGrid-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_more{
+    right: auto;
+    left: 30px;
+}
+.tzElement_Feature.tzFeature_type5 .tzFeature_Icon{
+    float: right;
+}
+.tzElement_Feature.tzFeature_type5 h5.tzFeature_title::after{
+    left: auto;
+    right: 0;
+}
+.tzElement_Feature.tzFeature_type5 h5.tzFeature_title {
+    margin: 0 60px 12px 0;
+    text-align: right;
+}
+.tzElement_Feature.tzFeature_type5 p.tzFeature_description{
+    margin:0 60px 0 0;
+    text-align: right;
+}
+.tzOurProcess_Container.tzOurProcess_4_phase .tzOurProcess .tzOurProcessItem{
+    float: right;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_top{
+    padding-left: 0;
+    padding-right: 40px;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_top .tzOurProcessItem_icon {
+    right: 40px;
+    left: auto;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_top .tzOurProcessItem_year {
+    padding: 11px 110px 7px 20px;
+    text-align: right;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_top .tzOurProcessItem_name {
+    padding: 0 110px 0 20px;
+    text-align: right;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_bottom .tzOurProcessItem_left {
+    border-width: 0 0 1px 1px;
+    float: right;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem .tzOurProcessItem_bottom .tzOurProcessItem_right {
+    height: 100%;
+    padding-left: 0;
+    padding-right: 85px;
+}
+.tzOurProcess_Container .tzOurProcess .tzOurProcessItem:first-child .tzOurProcessItem_bottom .tzOurProcessItem_left {
+    border-width: 0 0 0 1px;
+}
+
+.wpb_text_column{
+    text-align: right;
+}
+.tz-plazart-list li i {
+    float: right;
+    margin:5px 0 0 20px;
+}
+.tzElement_Member {
+    padding: 0 18px 65px 0;
+}
+.tzElement_Member .tzMember_Wrap .tzMember_Info {
+    left: auto;
+    right: -18px;
+}
+.tzElement_Member .tzMember_Wrap .tzMember_Info .tzMember_Info_Box{
+    text-align: right;
+}
+.tzElement_Quote_Container.tzQuote_type2 .tzElement_Quote .tzQuote_Item .tzQuote_Info::after{
+    right: 0;
+    left: auto;
+}
+.tzElement_Quote_Container.tzQuote_type2 .tzElement_Quote .tzQuote_Item .tzQuote_Info{
+    text-align: right;
+    padding-left: 0;
+    padding-right: 50px;
+}
+.tzElement_Quote_Container.tzQuote_type2 .tzElement_Quote .tzQuote_Item .tzQuote_Info .tzQuote_Employment{
+    text-align: right;
+}
+.tzUnder_Construction_top .container .tzUnder_Construction_logo{
+    right: 15px;
+    left: auto;
+}
+
+.tzUnder_Construction_top .container .tzUnder_Construction_Countdown .tzcountdown{
+    text-align: right;
+}
+.tzUnder_Construction_top .container .tzUnder_Construction_Countdown .tzcountdown .countdown .tzcountdownitem{
+    float: right;
+}
+.tzUnder_Construction_top .container .tzUnder_Construction_Countdown .tzcountdown .countdown .tzdivide{
+    float: right;
+}
+.tzUnder_Construction_Section .tzUnder_Construction_left{
+    float: right;
+}
+.tzUnder_Construction_Section .tzUnder_Construction_right{
+    float: left;
+}
+.tzUnder_Construction_Section .tzUnder_Construction_left .tzUnder_Construction_About{
+    text-align: right;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right{
+    justify-content: flex-end;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right .tzUnder_Construction_Form{
+    text-align: right;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right .tzUnder_Construction_Form form.newsletter .newsletter-field input.newsletter-email{
+    text-align: right;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right .tzUnder_Construction_Form form.newsletter .newsletter-field.newsletter-field-button::after{
+    right:25px;
+    left: auto;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right .tzUnder_Construction_Form form.newsletter .newsletter-field.newsletter-field-button{
+    text-align: right !important;
+}
+.tzUnder_Construction_Section.tzUnder_Construction_Notify_Section .tzUnder_Construction_right .tzUnder_Construction_Form form.newsletter .newsletter-field.newsletter-field-button input.newsletter-button{
+    padding:12px 48px 12px 23px !important;
+}
+.vc_tta-tabs.vc_tta-style-outline .vc_tta-tabs-container ul.vc_tta-tabs-list{
+    text-align: right;
+}
+.vc_tta-tabs.vc_tta-style-outline .vc_tta-tabs-container ul.vc_tta-tabs-list li.vc_tta-tab {
+    margin: 0 0 0 30px;
+}
+.vc_tta-tabs.vc_tta-style-outline .vc_tta-tabs-container ul.vc_tta-tabs-list li.vc_tta-tab a::before {
+    right: 19px;
+    left: auto;
+}
+.vc_tta-tabs.vc_tta-style-outline .vc_tta-tabs-container ul.vc_tta-tabs-list li.vc_tta-tab a::after {
+    right: 33px;
+    left: auto;
+}
+form.wpcf7-form{
+    text-align: right;
+}
+.wpcf7-form input.wpcf7-text{
+    text-align: right;
+}
+.wpcf7-form textarea.wpcf7-textarea{
+    text-align: right;
+}
+
+.tzBlogDefault .tzBlogContainer .tzBlogItem .tzBlogContent{
+    text-align: right;
+}
+
+.tz-sidebar .widget h3.title-widget{
+    text-align: right;
+}
+
+.tz-sidebar .widget.widget_search form input.Tzsearchform {
+    padding: 9px 15px 10px 45px;
+    text-align: right;
+}
+.tz-sidebar .widget.widget_search form input.searchsubmit {
+    left: 0;
+    right:auto;
+}
+.tz-sidebar .widget.widget_text .textwidget{
+    text-align: right;
+}
+.tz-sidebar .widget ul li::before{
+    right: 0;
+    left: auto;
+}
+.tz-sidebar .widget ul li{
+    text-align: right;
+}
+.tz-sidebar .widget.widget_categories ul li {
+    padding: 0 15px 0 0;
+    text-align: right;
+}
+.tz-sidebar .widget.tz-recent-w ul li img {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.tz-sidebar .widget.tz-recent-w ul li .tz-recent-content{
+    text-align: right;
+}
+.tz-sidebar .widget.widget_tag_cloud .tagcloud a {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+.tzBlogColumn .tzBlogContainer .blogColumn-item .tzBlogInner .tzBlogContent{
+    text-align: right;
+}
+.tzBlogColumn .wp-pagenavi{
+    text-align: right;
+}
+.tzBlogSingle .tzBlogSingleContainer .tzBlogSingle_content{
+    text-align: right;
+}
+.tzBlogSingle .author .author-avata{
+    float: right;
+}
+.tzBlogSingle .author .author-avata .author-social{
+    left:-33px;
+    right:auto;
+}
+.tzBlogSingle .author .author-info{
+    margin-left: 0;
+    margin-right: 210px;
+    text-align: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentForm .comment-respond{
+    text-align: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentForm .comment-respond form.comment-form p textarea{
+    text-align: right;
+}
+blockquote {
+    border-left: none;
+    border-right: 5px solid #eee;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent .comments-title{
+    text-align: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-author{
+    float: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content{
+    margin-left: 0;
+    margin-right: 120px;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content h5{
+    float: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo{
+    text-align: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo a{
+    margin:0 20px 0 0;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-reply-link,
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article .comment-content .tz-commentInfo .comment-edit-link{
+    margin-left: 0;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li article p{
+    text-align: right;
+}
+.tzBlogSingle .tzComments .comments-area .tzCommentContent ol.comment-list li ol.children{
+    padding-left: 0;
+    padding-right: 120px;
+}
+.tzPortfolio_Container .tzPortfolio .portfolio-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_info{
+    left: 30px;
+    right: auto;
+    text-align: left;
+}
+.tzPortfolio_Container .tzPortfolio .portfolio-item .tz-inner .tzPortfolioBox .tzPortfolio_hover .tzPortfolio_hover_more{
+    left: 30px;
+    right: auto;
+}
+.tzPortfolio_Single .tzPortfolio_Single_Content{
+    text-align: right;
+}
+.tzPortfolio_Single .tzPortfolio_Single_Info{
+    text-align: right;
+}
+.tzshop-wrap .grid_pagination_block form.woocommerce-ordering{
+    float: right;
+}
+.tzshop-wrap .grid_pagination_block p.woocommerce-result-count{
+    float: right;
+    margin:0 20px 0 0;
+}
+.tzshop-wrap .grid_pagination_block .tzview-style{
+    float: left;
+}
+.tzshop-wrap .woocommerce-pagination {
+    text-align: left !important;
+}
+.tz-sidebar .widget.widget_product_search form.woocommerce-product-search input.search-field {
+    padding: 9px 15px 10px 45px;
+    text-align: right;
+}
+.tz-sidebar .widget.widget_product_search form.woocommerce-product-search input[type="submit"]{
+    left: 0;
+    right: auto;
+}
+.tz-sidebar .widget.WOOF_Widget .woof_container_product_cat .woof_container_inner_productcategories ul.woof_list_radio li {
+    padding: 0 22px 14px 0 !important;
+}
+.tz-sidebar .widget.WOOF_Widget .woof_container_product_cat .woof_container_inner_productcategories ul.woof_list_radio li input.woof_radio_term{
+    right: 0;
+    left: auto;
+}
+.tz-sidebar .widget ul.product_list_widget li a img {
+    float: right;
+    margin: 0 0 0 15px;
+}
+.woocommerce ul.cart_list li .star-rating, .woocommerce ul.product_list_widget li .star-rating{
+    display: inline-block;
+}
+.tz-sidebar .widget.widget_product_tag_cloud .tagcloud a{
+    float: right;
+    margin:0 0 10px 10px;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info{
+    text-align: right;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .woocommerce-product-rating .star-rating{
+    float: right;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .yith-wcwl-add-to-wishlist{
+    float: right;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .product_share span{
+    float: none;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .tzShopDetail_info .product_share .product_share_social{
+    display: inline-block;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs ul.tabs li{
+    float: right;
+    margin:0 2px 0 3px;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel{
+    text-align: right;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #comments ol.commentlist li .comment_container img{
+    float: right;
+    left: auto;
+    right: 0;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #comments ol.commentlist li .comment_container .comment-text{
+    margin-left: 0;
+    margin-right: 120px;
+}
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #comments ol.commentlist li .comment_container .comment-text .star-rating{
+    float: left;
+}
+
+.tzShopDetail-wrap .tzShopContentDetail .tzShopDetail_Product .woocommerce-tabs .panel #reviews #review_form_wrapper #review_form .comment-respond form#commentform p textarea{
+    text-align: right;
+}
+.related h2{
+    text-align: right;
+}
+.related ul.products li.tzShop-item{
+    float: right;
+}
+.woocommerce form table.shop_table tbody tr.cart_item td.product-name{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn form.woocommerce-shipping-calculator p{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn .cart_totals h2{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn form.woocommerce-shipping-calculator .shipping-calculator-form p select{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn form.woocommerce-shipping-calculator .shipping-calculator-form p input{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn .cart_totals table tbody tr th{
+    text-align: right;
+}
+.woocommerce .cart-collaterals .tzCart_totals .tzCollateralsColumn .cart_totals table tbody tr td{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce .woocommerce-info:before{
+    left: auto;
+    right: 1.5em;
+
+}
+.woocommerce-checkout .woocommerce .woocommerce-info{
+    padding: 1em 3.5em 1em 2em !important;
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout_coupon p input.input-text{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-1 .woocommerce-billing-fields h3{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-1 .woocommerce-billing-fields p label{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-1 .woocommerce-billing-fields p input{
+    text-align: right;
+}
+#add_payment_method .checkout .col-2 h3#ship-to-different-address, .woocommerce-checkout .checkout .col-2 h3#ship-to-different-address{
+    float: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-2 .woocommerce-shipping-fields .shipping_address p label{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-2 .woocommerce-shipping-fields .shipping_address p input{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout .col2-set .col-2 .woocommerce-shipping-fields p textarea{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout h3#order_review_heading{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review table.woocommerce-checkout-review-order-table thead tr th{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review table.woocommerce-checkout-review-order-table tbody tr td{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review table.woocommerce-checkout-review-order-table tfoot tr th{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review table.woocommerce-checkout-review-order-table tfoot tr td{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review .woocommerce-checkout-payment ul.payment_methods li{
+    text-align: right;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review .woocommerce-checkout-payment ul.payment_methods li input{
+    float: right;
+    margin: 18px 0 0 15px;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review .woocommerce-checkout-payment ul.payment_methods li .payment_box::before{
+    right: 0;
+    left: auto;
+}
+.woocommerce-checkout .woocommerce form.checkout #order_review .woocommerce-checkout-payment .place-order input#place_order{
+    float: right;
+}
+form#yith-wcwl-form{
+    text-align: right;
+}
+.woocommerce form table.shop_table thead tr th.product-name{
+    text-align: right;
+}
+form#yith-wcwl-form table.wishlist_table tbody tr td.product-name{
+    text-align: right;
+}
+form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share{
+    text-align: right;
+}
+form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share h4.yith-wcwl-share-title{
+    float: none;
+}
+form#yith-wcwl-form table.wishlist_table tfoot tr td .yith-wcwl-share ul{
+    display: inline-block;
+}
+
+.tzFooter .tzFooterTop .footerattr .widget h3.title-widget{
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget p{
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_contact_info .tzwidget-contact{
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget.dw_twitter .dw-twitter-inner .tweet-item::after{
+    right:0;
+    left: auto;
+}
+.tzFooter .tzFooterTop .footerattr .widget.dw_twitter .dw-twitter-inner .tweet-item {
+    padding-left: 0;
+    padding-right: 30px;
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget{
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget .newsletter form::after {
+    left: 0;
+    right: auto;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget .newsletter form .newsletter-submit {
+    left: 0;
+    right:auto;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_newsletterwidget .newsletter form .newsletter-email {
+    padding: 12px 12px 12px 47px;
+    text-align: right;
+}
+.tzFooter .tzFooterBottom .tzCopyright{
+    float: right !important;
+}
+.tzFooter .tzFooterBottom .tzFooterSocial{
+    float: left !important;
+}
+
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget h3.title-widget{
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget .tzwidget-contact{
+    text-align: right;
+}
+.tzFooter .tzFooterTop .footerattr .widget.widget_contact_info .tzwidget-contact span i {
+    float: right;
+    margin: 4px 0 0 20px;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget ul.tz-recent-post li img{
+    float: right;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget ul.tz-recent-post li .tz-recent-content{
+    padding-left: 0;
+    padding-right: 100px;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget ul.tz-recent-post li{
+    text-align: right;
+}
+
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget .wpcf7-form .TzContactForm p input{
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget .wpcf7-form .TzContactForm p textarea{
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterTop .footerattr .widget .wpcf7-form .TzContactForm p input.wpcf7-submit{
+    float: right;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterBottom .tzCopyright{
+    float: right !important;
+}
+.tzFooter.tzFooter-Type-2 .tzFooterBottom .tzFooterSocial{
+    float: left !important;
+}
+
+.tzFooter.tzFooter-Type-3 .tzFooterTop .footerattr .widget h3.title-widget{
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-3 .tzFooterTop .footerattr .widget p{
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-3 .tzFooterTop .footerattr .widget ul li::before{
+    right: 0;
+    left: auto;
+}
+.tzFooter.tzFooter-Type-3 .tzFooterTop .footerattr .widget ul li {
+    padding: 0 15px 8px 0;
+    text-align: right;
+}
+.tzFooter.tzFooter-Type-3 .tzFooterTop .footerattr .widget .tzwidget-contact span{
+    text-align: right;
+}
